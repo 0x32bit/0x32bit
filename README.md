@@ -16,7 +16,7 @@
 <p align="center">
     <samp>
     <a href="https://twitter.com/yuutonuko_" target="_blank">Twitter</a> &#9670;
-    <a href="mailto:yuutonuko@outlook.jp" target="_blank">contact me</a>
+    <a href="mailto:yuutonuko@outlook.jp" target="_blank">Contact Me</a>
     </samp>
 </p>
 
