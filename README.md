@@ -1,16 +1,35 @@
-### Hi there 👋
+<p align="left"><strong><samp>「</samp></strong></p>
+    <p align="center">
+        <samp><br>
+        この世界の内に望む変化に、<br>
+        あなた自身が成ってみせなさい。<br>
+        </samp><br>
+    </p>
+<p align="right"><strong><samp>」</samp></strong></p>
 
-<!--
-**KBDx2/KBDx2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<details align="center">
+<summary><samp>extend</samp> &#9655;</summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2></h2><br>
+<p align="center">
+    <samp>
+    <a href="https://twitter.com/yuutonuko_" target="_blank">Twitter</a> &#9670;
+    <a href="mailto:yuutonuko@outlook.jp" target="_blank">contact me</a>
+    </samp>
+</p>
+
+<h2></h2><br>
+<p align="center">
+    <samp>
+    <a href="https://ko-fi.com/yuutonuko" target="_blank"><strong>‎ ko-fi ‎</strong></a>
+    </samp>
+</p>
+
+<h2></h2><br>
+
+```console
+rm -rf .minecraft```
+
+</details>
