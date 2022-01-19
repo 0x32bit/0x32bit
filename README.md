@@ -31,5 +31,3 @@
 
 ```console
 rm -rf .minecraft```
-
-</details>
