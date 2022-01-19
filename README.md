@@ -30,4 +30,4 @@
 <h2></h2><br>
 
 ```console
-rm -rf .minecraft```
+rm -r .minecraft
