@@ -28,7 +28,7 @@ A Japanese Student Developer. <br>
   <img src='https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg' width='45' height='45'/>
   <img src='https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg' width='45' height='45'/>
   <img src='https://cdnlogo.com/logos/c/27/c.svg' width='45' height='45'/>
-  <img src='https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/121px-Java_programming_language_logo.svg.png' width='45' height='45'/>
+  <img src='https://cdn.worldvectorlogo.com/logos/java.svg' width='45' height='45'/>
 </p>
 <p align='left'>
   <img src='https://symbols.getvecta.com/stencil_28/61_sql-database-generic.a9f12e2a30.svg' width='45' height='45'/>
@@ -36,11 +36,10 @@ A Japanese Student Developer. <br>
   <img src='https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg' width='45' height='45'/>
   <img src='https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg' width='45' height='45'/>
   <img src='https://resources.jetbrains.com/storage/products/goland/img/meta/goland_logo_300x300.png' width='45' height='45'/>
-  <img src='https://resources.jetbrains.com/storage/products/datagrip/img/meta/datagrip_logo_300x300.png' width='45' height='45'/>
+  <img src='https://resources.jetbrains.com/storage/products/intellij/img/meta/intellij_logo_300x300.png' width='45' height='45'/>
   <img src='https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png' width='45' height='45'/>
   <img src='https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg' width='45' height='45'/>
   <img src='https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg' width='45' height='45'/>
-  <img src='https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg' width='45' height='45'/>
 </p>
 <br>
 ## 📈 Stats
