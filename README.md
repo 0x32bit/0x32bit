@@ -34,9 +34,7 @@ A Japanese Student Developer. <br>
   <img src='https://camo.githubusercontent.com/21439e24ddd0195751bd0cca02c521e041b87de9c995bcef18c9083d4c1d0473/68747470733a2f2f7777772e70726f786d6f782e636f6d2f696d616765732f70726f786d6f782f50726f786d6f782d6c6f676f2d737461636b65642d38343070782e706e67' width='45' height='45'/>
   <img src='https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg' width='45' height='45'/>
   <img src='https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg' width='45' height='45'/>
-  <img src='https://resources.jetbrains.com/storage/products/goland/img/meta/goland_logo_300x300.png' width='45' height='45'/>
-  <img src='https://resources.jetbrains.com/storage/products/idea/img/meta/intellij_logo_300x300.png' width='45' height='45'/>
-  <img src='https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png' width='45' height='45'/>
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png' width='45' height='45'/>
   <img src='https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg' width='45' height='45'/>
   <img src='https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg' width='45' height='45'/>
 </p>
