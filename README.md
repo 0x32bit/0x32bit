@@ -39,7 +39,6 @@ A Japanese Student Developer. <br>
   <img src='https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg' width='45' height='45'/>
 </p>
 <br>
-## 📈 Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=yuutonuko&theme=dark&count_private=true" />
