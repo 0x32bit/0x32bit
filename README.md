@@ -1,19 +1,18 @@
 # 
-![KONNNITIHA SEKAI (2)](https://media.discordapp.net/attachments/815098719019466794/925005849703890994/unknown.png?width=853&height=480)
+![KONNNITIHA SEKAI (2)](https://cardivo.vercel.app/api?name=Alfandi%20Putra&description=A%20%20Unknown%20Developer&image=https://avatars.githubusercontent.com/u/76986955?v=4=4?v=4&backgroundColor=%23dbe7f0&instagram=skkyvview&twitter=crashkeyboard&pattern=topography&colorPattern=%234d85b3&fontColor=%23172836&iconColor=%23172836&opacity=0.3))
 <h1 align='center'><i>  Hi. I'm Yuuto.</i></h1>
 <p align='center'>
 <i>
-  🐓 <a href="https://twitter.com/yuutonuko_">Twitter</a><br>
-  📧 <a>Mail: yuutonuko@outlook.jp</a>
-  👾 <a>Discord: 優朋ぬこ#3171</a>
+  🐓 <a href="https://twitter.com/crashkeyboard">Twitter</a><br>
+  📧 <a>Mail: alfandipfa@gmail.com</a>
   </i>
 </p>
 <br>
 
 ## 🤔 About me
 
-A Japanese Student Developer. <br> 
-プログラミング・サイバーセキュリティ・サーバー・映像・音響などを勉強中。主にJavaとC++が得意です。<br>
+A Student Developer. <br> 
+Hi. My Name is Alfandi Putra Firdaus Ardiansah. Im From Surabaya.<br>
 <br>
 
 ## ✍ I can use...
