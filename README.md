@@ -11,7 +11,7 @@
 
 ## 🤔 About me
 
-A Student Developer. <br> 
+A Indonesians Student Developer. <br> 
 Hi. My Name is Alfandi Putra Firdaus Ardiansah. Im From Surabaya.<br>
 <br>
 
