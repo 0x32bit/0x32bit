@@ -1,5 +1,5 @@
 # 
-![KONNNITIHA SEKAI (2)](https://cardivo.vercel.app/api?name=Alfandi%20Putra&description=A%20%20Unknown%20Developer&image=https://avatars.githubusercontent.com/u/76986955?v=4=4?v=4&backgroundColor=%23dbe7f0&instagram=skkyvview&twitter=crashkeyboard&pattern=topography&colorPattern=%234d85b3&fontColor=%23172836&iconColor=%23172836&opacity=0.3))
+![KONNNITIHA SEKAI (2)](https://cardivo.vercel.app/api?name=Alfandi%20Putra&description=A%20%20Unknown%20Developer&image=https://avatars.githubusercontent.com/u/76986955?v=4=4?v=4&backgroundColor=%23dbe7f0&instagram=skkyvview&twitter=crashkeyboard&pattern=topography&colorPattern=%234d85b3&fontColor=%23172836&iconColor=%23172836&opacity=0.3)
 <h1 align='center'><i>  Hi. I'm Yuuto.</i></h1>
 <p align='center'>
 <i>
