@@ -38,8 +38,8 @@ Hi. My Name is Alfandi Putra Firdaus Ardiansah. Im From Surabaya.<br>
 <br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=yuutonuko&theme=dark&count_private=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=0x32bit&theme=dark&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuutonuko&layout=compact&theme=dark&count_private=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x32bit&layout=compact&theme=dark&count_private=true" />
 </a>
