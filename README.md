@@ -1,5 +1,3 @@
-# 
-![KONNNITIHA SEKAI (2)](https://cardivo.vercel.app/api?name=Alfandi%20Putra&description=A%20%20Unknown%20Developer&image=https://avatars.githubusercontent.com/u/76986955?v=4=4?v=4&backgroundColor=%23dbe7f0&instagram=skkyvview&twitter=crashkeyboard&pattern=topography&colorPattern=%234d85b3&fontColor=%23172836&iconColor=%23172836&opacity=0.3)
 <h1 align='center'><i>  Hi. I'm Alfandi.</i></h1>
 <p align='center'>
 <i>
@@ -12,7 +10,7 @@
 ## 🤔 About me
 
 A Indonesians Student Developer. <br> 
-Hi. My Name is Alfandi Putra Firdaus Ardiansah. Im From Surabaya.<br>
+Hi. My Name is Alfandi Putra Firdaus Ardiansah. Im From Balikpapan.<br>
 <br>
 
 ## ✍ I can use...
