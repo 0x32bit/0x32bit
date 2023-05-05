@@ -2,7 +2,7 @@
 <p align='center'>
 <i>
   🐓 <a href="https://twitter.com/crashkeyboard">Twitter</a><br>
-  📧 <a>Mail: alfandipfa@gmail.com</a>
+  📧 <a>Mail: alfandipfa3171@gmail.com</a>
   </i>
 </p>
 <br>
