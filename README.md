@@ -18,7 +18,7 @@ Hi. My Name is Alfandi Putra Firdaus Ardiansah. Im From Balikpapan.<br>
   <img src='https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg' width='45' height='45'/>
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/CentOS_Graphical_Symbol.svg/1200px-CentOS_Graphical_Symbol.svg.png' width='45' height='45'/>
   <img src='https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg' width='45' height='45'/>
-  <img src='https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg' width='45' height='45'/>
+  <img src='https://seeklogo.com/images/A/archlinux-logo-1159446C2C-seeklogo.com.png' width='45' height='45'/>
   <img src='https://upload.wikimedia.org/wikipedia/commons/4/4b/Kali_Linux_2.0_wordmark.svg' width='45' height='45'/>
   <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg' width='45' height='45'/>
   <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg' width='45' height='45'/>
