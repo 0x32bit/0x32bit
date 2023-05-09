@@ -32,6 +32,7 @@ Hi. My Name is Alfandi Putra Firdaus Ardiansah. Im From Balikpapan.<br>
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png' width='45' height='45'/>
   <img src='https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg' width='45' height='45'/>
   <img src='https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg' width='45' height='45'/>
+src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1280px-Unofficial_JavaScript_logo_2.svg.png' width='45' height='45'
 </p>
 <br>
 
