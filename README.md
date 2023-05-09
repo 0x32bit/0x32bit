@@ -25,9 +25,12 @@ Hi. My Name is Alfandi Putra Firdaus Ardiansah. Im From Balikpapan.<br>
   <img src='https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg' width='45' height='45'/>
   <img src='https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg' width='45' height='45'/>
 
- <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1280px-Unofficial_JavaScript_logo_2.svg.png' width='45' height='45'/>
+
 
   <img src='https://cdnlogo.com/logos/c/27/c.svg' width='45' height='45'/>
+  
+<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1280px-Unofficial_JavaScript_logo_2.svg.png' width='45' height='45'/>
+  
   <img src='http://cdn.onlinewebfonts.com/svg/img_431824.png' width='45' height='45'/>
 </p>
 <p align='left'>
