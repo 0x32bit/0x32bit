@@ -10,7 +10,7 @@
 ## 🤔 About me
 
 A Indonesians Student Developer. <br> 
-Hi. My Name is Alfandi Putra Firdaus Ardiansah. Im From Balikpapan.<br>
+Hi. My Name is Alfandi. Im From Indonesia.<br>
 <br>
 
 ## ✍ I can use...
