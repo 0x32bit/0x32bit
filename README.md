@@ -2,15 +2,15 @@
 <p align='center'>
 <i>
   🐓 <a href="https://twitter.com/crashkeyboard">Twitter</a><br>
-  📧 <a>Mail: alfandipfa3171@gmail.com</a>
+  📧 <a>Mail: sky@gnuweeb.org</a>
   </i>
 </p>
 <br>
 
 ## 🤔 About me
 
-A Indonesians Student Developer. <br> 
-Hi. My Name is Alfandi. Im From Indonesia.<br>
+A Indonesians Student Developer.
+
 <br>
 
 ## ✍ I can use...
